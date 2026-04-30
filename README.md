@@ -2,15 +2,15 @@
 Hi 👋 My name is Nicolas Fadel
 ==============================
 
-Systems Analysis and Development Student
+Computer Engineering Student
 ----------------------------------------
 
-I\`m Currently Studying 4th grade in Systems Analysis and Development.
+I am currently in the 3rd semester of Computer Engineering.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [MyPortifolio](http://https://github.com/nicolascfadel)
-* ✉️  You can contact me at [nicandinifadelbm@gmail.com](mailto:nicandinifadelbm@gmail.com)
-* 🧠  I'm learning Python, C#, PHP and PowerBI
+* ✉️  You can contact me at [nicandinifadel09@gmail.com](mailto:nicandinifadel09@gmail.com)
+* 🧠  I'm learning Python, C#, Java
 
 ### Skills
 
